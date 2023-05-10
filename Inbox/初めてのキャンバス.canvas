@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"type":"text","text":"とりま使ってみる\nこれがホワイトボードみたいなんで書いたやつ","id":"b31d14045eead46c","x":-125,"y":-30,"width":250,"height":60},
+		{"type":"file","file":"Inbox/Obsidian.md","id":"9a596f26043b6bcf","x":-525,"y":-640,"width":400,"height":340},
+		{"type":"text","text":"フロントマター","id":"b924a709dc810252","x":-740,"y":-140,"width":250,"height":60},
+		{"type":"text","text":"マークダウンの書き方","id":"8925987c1a1f121d","x":-1060,"y":-640,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"1cfe9cdf543a4cc0","fromNode":"9a596f26043b6bcf","fromSide":"bottom","toNode":"b924a709dc810252","toSide":"bottom"},
+		{"id":"9cbdd401601eb871","fromNode":"9a596f26043b6bcf","fromSide":"left","toNode":"8925987c1a1f121d","toSide":"top"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"file","file":"Inbox/Obsidianの使い方.md","id":"35d4bbe2c13da853","x":9,"y":-167,"width":400,"height":400},
+		{"type":"text","text":"ToDo","id":"1e9b8578ca7c9dc7","x":-433,"y":11,"width":250,"height":60},
+		{"type":"text","text":"マークダウンの書き方","id":"a979945ca522d7a7","x":-829,"y":-144,"width":250,"height":60},
+		{"type":"text","text":"フロントマター","id":"f6cf5724dcad390b","x":-817,"y":153,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"8607a5a7e0c06e51","fromNode":"35d4bbe2c13da853","fromSide":"left","toNode":"1e9b8578ca7c9dc7","toSide":"right"},
+		{"id":"1fc0f5c126ad4b21","fromNode":"1e9b8578ca7c9dc7","fromSide":"left","toNode":"a979945ca522d7a7","toSide":"right"},
+		{"id":"82862d7134b00221","fromNode":"1e9b8578ca7c9dc7","fromSide":"left","toNode":"f6cf5724dcad390b","toSide":"right"}
+	]
+}
