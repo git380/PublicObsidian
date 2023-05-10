@@ -1,0 +1,1 @@
+[[ObsidianをGitHubに保存する]]
