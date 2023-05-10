@@ -27,15 +27,14 @@
               "state": {
                 "file": "Inbox/初めてのキャンバス.canvas",
                 "viewState": {
-                  "x": -495.00892857142856,
-                  "y": -648.3389373967804,
+                  "x": -467.5,
+                  "y": -409.2228659682089,
                   "zoom": -1.081388326840655
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/初めてのキャンバス.canvas",
+                "file": "Inbox/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/初めてのキャンバス.canvas",
+                "file": "Inbox/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/初めてのキャンバス.canvas"
+                "file": "Inbox/Obsidian.md"
               }
             }
           }
@@ -162,15 +161,15 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "ef208c8ff7337874",
+  "active": "66f98ab2e104273e",
   "lastOpenFiles": [
-    "Inbox/Obsidianを使ってみよう.canvas",
     "Inbox/初めてのキャンバス.canvas",
+    "Inbox/Obsidian.md",
+    "Inbox/Obsidianを使ってみよう.canvas",
     "Obsidian.md",
     "Inbox/Obsidianの使い方.md",
     "Inbox/ObsidianをGitHubに保存する.md",
     "Inbox/ObsidianとGitHubの初期設定.md",
-    "Inbox/Obsidian.md",
     "Inbox/無題のファイル 1.canvas",
     "Daily/2023-05-10.md",
     "2023-05-10.md",
