@@ -1,3 +1,5 @@
 [[ObsidianをGitHubに保存する]]
 [[Obsidianの使い方]]
 [[AWS]]
+[[Webサイト構築]]
+[[システム構築総合演習]]
