@@ -13,24 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Obsidian.md",
+                "file": "Inbox/ObsidianをGitHubに保存する.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ef208c8ff7337874",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Inbox/初めてのキャンバス.canvas",
-                "viewState": {
-                  "x": -467.5,
-                  "y": -409.2228659682089,
-                  "zoom": -1.081388326840655
-                }
               }
             }
           }
@@ -100,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Obsidian.md",
+                "file": "Inbox/ObsidianをGitHubに保存する.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Obsidian.md",
+                "file": "Inbox/ObsidianをGitHubに保存する.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Obsidian.md"
+                "file": "Inbox/ObsidianをGitHubに保存する.md"
               }
             }
           }
@@ -163,15 +148,22 @@
   },
   "active": "66f98ab2e104273e",
   "lastOpenFiles": [
-    "Inbox/初めてのキャンバス.canvas",
-    "Inbox/Obsidian.md",
-    "Inbox/Obsidianを使ってみよう.canvas",
-    "Obsidian.md",
     "Inbox/Obsidianの使い方.md",
-    "Inbox/ObsidianをGitHubに保存する.md",
     "Inbox/ObsidianとGitHubの初期設定.md",
-    "Inbox/無題のファイル 1.canvas",
+    "Inbox/初めてのキャンバス.canvas",
+    "Inbox/モジュール2：クラウドエコノミクスと請求.md",
+    "Inbox/Obsidianを使ってみよう.canvas",
+    "Inbox/ObsidianをGitHubに保存する.md",
+    "Inbox/Obsidian.md",
+    "Inbox/AWS.md",
+    "Daily/2023-05-11.md",
+    "Daily/2023-05-16.md",
     "Daily/2023-05-10.md",
+    "無題のファイル.canvas",
+    "2023-05-17.md",
+    "無題のファイル.md",
+    "Obsidian.md",
+    "Inbox/無題のファイル 1.canvas",
     "2023-05-10.md",
     "ObsidianをGitに保存する方法.md",
     "無題のフォルダ",
