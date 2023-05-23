@@ -18,11 +18,21 @@ PDF001の３番目の正引き・逆引きは完成したが、見直しをす�
 
 
 1.
+```
 su root
+```
+```
 yum -y remove bind bind-utils bind-chroot
+```
+```
 yum -y install bind bind-utils
+```
+```
 ls -l /etc/named.conf
-
+```
+```
+cd ../..
+```
 
 2.
 LinuxまたはUNIXシステムでは、テキストエディタを使用して設定ファイルを編集することができます。一般的なテキストエディタには、`vi`、`nano`、`emacs`などがあります。
@@ -30,7 +40,7 @@ LinuxまたはUNIXシステムでは、テキストエディタを使用して�
 例えば、`vi`エディタを使用して`/etc/named.conf`ファイルを編集するには、次のコマンドを実行します。
 
 ```
-sudo vi /etc/named.conf
+vi /etc/named.conf
 ```
 
 コピー
@@ -57,7 +67,7 @@ sudo vi /etc/named.conf
 正引きファイルと逆引きファイルは、テキストエディタを使用して作成することができます。例えば、`vi`エディタを使用して正引きファイルを作成するには、次のコマンドを実行します。
 
 ```
-sudo vi /var/named/mr.hi-joho.ac.jp.zone
+vi /var/named/mr.hi-joho.ac.jp.zone
 ```
 
 コピー
@@ -67,7 +77,7 @@ sudo vi /var/named/mr.hi-joho.ac.jp.zone
 逆引きファイルも同様に作成することができます。ただし、ファイル名は適切な値に置き換える必要があります。
 
 ```
-sudo vi /var/named/xx.16.10.rev
+vi /var/named/73.16.10.rev
 ```
 
 コピー
@@ -75,3 +85,36 @@ sudo vi /var/named/xx.16.10.rev
 この文書の3-3に記載されている内容を参照して、逆引きファイルの内容を入力します。
 
 以上が、正引きファイルと逆引きファイルの作成方法です。何か質問や困ったことがあればお気軽にお問い合わせください。
+
+各ゾーンファイルのチェック
+```
+named-checkzone mr.hi-joho.ac.jp /var/named/mr.hi-joho.ac.jp.zone
+```
+
+```
+named-checkzone 73.16.10.in-addr.arpa /var/named/73.16.10.rev
+```
+
+6 設定ファイルのアクセス権、所有者、所有グループの変更
+「所有者」と「グループ」を所有者root:グループnamedに変更する。
+```
+chown root:named /var/named/mr.hi-joho.ac.jp.zone
+```
+```
+chown root:named /var/named/73.16.10.rev
+```
+rootのみが読み書きでき、グループnamedは読み込みのみ、その他のユーザはアクセス不可にする
+```
+chmod 640 /var/named/mr.hi-joho.ac.jp.zone
+```
+```
+chmod 640 /var/named/73.16.10.rev
+```
+
+7
+systemctl start named
+systemctl enable named
+
+8
+nmtui
+
