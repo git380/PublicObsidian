@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "908c3051c4acde5e",
+        "id": "848d3a82a46756db",
         "type": "tabs",
         "children": [
           {
-            "id": "5e074c57592a106e",
+            "id": "4366f83a9a640643",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/システム構築総合演習.md",
+                "file": "Templats/Templatesはプラグイン.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/システム構築総合演習.md",
+                "file": "Templats/Templatesはプラグイン.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/システム構築総合演習.md",
+                "file": "Templats/Templatesはプラグイン.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/システム構築総合演習.md"
+                "file": "Templats/Templatesはプラグイン.md"
               }
             }
           }
@@ -143,28 +143,34 @@
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false
+      "command-palette:コマンドパレットを開く": false,
+      "zk-prefixer:新規ユニークノートの作成": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5e074c57592a106e",
+  "active": "4366f83a9a640643",
   "lastOpenFiles": [
     "Inbox/DNSサーバ.md",
-    "Inbox/ObsidianをGitHubに保存する.md",
-    "Inbox/ObsidianとGitHubの初期設定.md",
-    "Inbox/AWS.md",
     "Inbox/Obsidian.md",
-    "Inbox/システム構築総合演習.md",
-    "Inbox/Webサイト構築.md",
-    "無題のファイル 1.md",
-    "Inbox/Obsidianの使い方.md",
-    "Daily/2023-05-16.md",
-    "Daily/2023-05-11.md",
-    "Daily/2023-05-10.md",
+    "Daily/2023-05-23.md",
+    "Inbox/AWS.md",
     "Extra/obsidian-logo.png",
     "Templats/Templatesはプラグイン.md",
+    "Daily/2023-05-10.md",
+    "無題のファイル.md",
+    "Inbox/システム構築総合演習.md",
+    "Inbox/コンピューターネットワーク.md",
+    "Inbox/Webサイト構築.md",
+    "Inbox/Obsidianの使い方.md",
+    "Inbox/ObsidianをGitHubに保存する.md",
+    "Inbox/Obsidianを使ってみよう.canvas",
     "Inbox/初めてのキャンバス.canvas",
     "Inbox/モジュール2：クラウドエコノミクスと請求.md",
-    "Inbox/Obsidianを使ってみよう.canvas",
+    "Inbox/大学試験.md",
+    "Inbox/ObsidianとGitHubの初期設定.md",
+    "無題のファイル 1.md",
+    "Daily/2023-05-16.md",
+    "Daily/2023-05-11.md",
     "無題のファイル.canvas",
     "2023-05-17.md",
     "Obsidian.md",
