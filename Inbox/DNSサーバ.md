@@ -106,9 +106,15 @@ chmod 640 /var/named/73.16.10.rev
 ```
 
 7
+```
 systemctl start named
+```
+```
 systemctl enable named
+```
 
 8
+```
 nmtui
-
+```
+![[Pasted image 20230525115822.png]]
