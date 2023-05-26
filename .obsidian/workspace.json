@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/課題1.md",
+                "file": "Inbox/システム構築総合演習.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/課題1.md",
+                "file": "Inbox/システム構築総合演習.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/課題1.md",
+                "file": "Inbox/システム構築総合演習.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/課題1.md"
+                "file": "Inbox/システム構築総合演習.md"
               }
             }
           }
@@ -160,14 +160,15 @@
   "active": "567ab87ac1d97bf5",
   "lastOpenFiles": [
     "Inbox/大学試験.md",
+    "Inbox/Webサイト構築.md",
+    "Inbox/Obsidian.md",
+    "Inbox/システム構築総合演習.md",
     "Inbox/課題1.md",
     "Inbox/DNSサーバ.md",
     "Inbox/コンピューターネットワーク.md",
     "Templats/Templatesはプラグイン.md",
     "Inbox/初めてのキャンバス.canvas",
     "Inbox/モジュール2：クラウドエコノミクスと請求.md",
-    "Inbox/システム構築総合演習.md",
-    "Inbox/Webサイト構築.md",
     "Inbox/Obsidianの使い方.md",
     "Inbox/AWS.md",
     "Inbox/ObsidianをGitHubに保存する.md",
@@ -175,7 +176,6 @@
     "Extra/Pasted image 20230525115822.png",
     "Daily/2023-05-23.md",
     "Daily/2023-05-16.md",
-    "Inbox/Obsidian.md",
     "Daily/2023-05-10.md",
     "Inbox/Obsidianを使ってみよう.canvas",
     "Inbox/ObsidianとGitHubの初期設定.md",
