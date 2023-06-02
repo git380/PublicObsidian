@@ -118,3 +118,22 @@ systemctl enable named
 nmtui
 ```
 ![[Pasted image 20230525115822.png]]
+
+各ゾーンファイルのチェック
+```
+named-checkzone mr105.hi-joho.ac.jp /var/named/mr105.hi-joho.ac.jp.zone
+```
+
+```
+named-checkzone 73.16.10.in-addr.arpa /var/named/73.16.10.rev
+```
+
+講師チェック
+チェックA
+```
+nslookup r4a105.mr105.hi-joho.ac.jp
+nslookup r4a105.mr.hi-joho.ac.jp
+nslookup www.mr.hi-joho.ac.jp
+nslookup 10.16.73.105
+nslookup 10.16.111.105
+```
