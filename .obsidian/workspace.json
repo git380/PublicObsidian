@@ -13,38 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/DNSサーバ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "819cdc0ef9f1fbe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/システム構築総合演習.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0891c098ee9ffbf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Inbox/MySQL.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "60d4c5b5d2b4d71f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,12 +156,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0891c098ee9ffbf1",
+  "active": "d52a66ec2bd27cc5",
   "lastOpenFiles": [
+    "Inbox/設計書.md",
+    "Inbox/DNSサーバ.md",
+    "Inbox/システム構築総合演習_課題①.md",
     "Inbox/システム構築総合演習.md",
     "Inbox/MySQL.md",
     "Inbox/Webサイト構築.md",
-    "Inbox/DNSサーバ.md",
     "Inbox/AWS.md",
     "Inbox/大学試験.md",
     "Inbox/卒論.md",
@@ -204,9 +189,7 @@
     "無題のファイル 1.md",
     "無題のファイル.canvas",
     "2023-05-17.md",
-    "Obsidian.md",
     "Inbox/無題のファイル 1.canvas",
-    "2023-05-10.md",
     "無題のフォルダ",
     "Daily",
     "Templats",
