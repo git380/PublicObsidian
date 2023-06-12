@@ -25,6 +25,10 @@ SELECT * FROM employee;
 ```sql
 DELETE FROM employee WHERE empid = '0001';
 ```
+データベース作成
+```sql
+CREATE DATABASE r4a105;
+```
 ### テーブル作成
 他病院表
 ```sql
